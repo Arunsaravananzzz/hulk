@@ -19,7 +19,10 @@ console.log(person.age);
 person.age=24;
 
 
+
+
 console.log(person.age);  // dot notation
 
 console.log(person['age']); // bracket notation
-console.log(person.sibilings)
+console.log(person.sibilings);
+console.log(person.qualification);
