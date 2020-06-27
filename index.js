@@ -16,7 +16,7 @@ let person =  {
     }
 } //object
 console.log(person.age);
-person.age=24;
+person.age=25;
 
 
 
