@@ -15,7 +15,11 @@ let person =  {
         sister: true,
     }
 } //object
-console.log(person.age);
+let person1 ={
+    name:"Nilavazhagan",
+
+}
+console.log(person1.name);
 person.age=25;
 
 
