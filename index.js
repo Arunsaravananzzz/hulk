@@ -17,6 +17,7 @@ let person =  {
 } //object
 let person1 ={
     name:"Nilavazhagan",
+    age:25,
 
 }
 console.log(person1.name);
